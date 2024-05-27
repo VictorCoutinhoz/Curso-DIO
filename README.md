@@ -12,7 +12,7 @@ Bem-vindo ao meu repositório no GitHub! Este espaço é dedicado aos projetos q
 - **Nome:** Antonio Victor
 - **Idade:** 20 anos
 - **Localização:** Amapá, Brasil
-- **Faculdade:** Engenharia de Computação
+- **Faculdade:** Engenharia de Computação (cursando)
 
 ## Descrição do Repositório
 
