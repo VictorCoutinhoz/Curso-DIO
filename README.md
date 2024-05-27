@@ -9,9 +9,9 @@ Bem-vindo ao meu repositório no GitHub! Este espaço é dedicado aos projetos q
 
 ## Sobre Mim
 
-- **Nome:** Antonio Victor
+- **Nome:** Antonio Victor Maciel Coutinho
 - **Idade:** 20 anos
-- **Localização:** Amapá, Brasil
+- **Localização:** Santana, Amapá, Brasil
 - **Faculdade:** Engenharia de Computação (cursando)
 
 ## Descrição do Repositório
